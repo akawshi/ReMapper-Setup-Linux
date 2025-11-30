@@ -1,15 +1,15 @@
-# What is this?
+# なにこれ
 
-**ReMapper-Setup** is a tool to add [ReMapper](https://github.com/Swifter1243/ReMapper) project files to a Beat Saber map.
+[ReMapper](https://github.com/Swifter1243/ReMapper)
 
-## Install
+## インストール
 
-Run this command in a Powershell window to install the tool onto your system
+編集中
 ```
 deno install --allow-all -f --reload --global https://raw.githubusercontent.com/Swifter1243/ReMapper-Setup/master/setup/rm_setup.ts
 ```
 
-## Run
+## 実行
 
 Run this in your VS-Code terminal to add the files to your map
 ```
