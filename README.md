@@ -7,7 +7,7 @@
 
 編集中
 ```
-deno install --allow-all -f --reload --global https://raw.githubusercontent.com/akawshi/ReMapper-Setup/master/setup/rm_setup.ts
+deno install --allow-all -f --reload --global https://raw.githubusercontent.com/akawshi/ReMapper-Setup-Linux/master/setup/rm_setup.ts
 ```
 
 ## 実行
